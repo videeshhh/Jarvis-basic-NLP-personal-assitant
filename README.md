@@ -45,3 +45,11 @@ Jarvis is a simple personal assistant that uses natural language processing (NLP
 4. User commands are also processed with a button provided for voice inputs.
 5. The assistant returns or speaks the appropriate response.
 
+
+MIT License
+
+Copyright (c) 2025 Videesh Sharma
+
+
+
+
