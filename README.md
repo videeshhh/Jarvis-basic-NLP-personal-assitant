@@ -27,9 +27,13 @@ Jarvis is a simple personal assistant that uses natural language processing (NLP
 
 ## Project Structure
 ├── intents.json # Stores all user intents and their responses
+
 ├── jarvis.ipynb # Main notebook with assistant logic
+
 ├── jarvis.py # Optional Python script version
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 
